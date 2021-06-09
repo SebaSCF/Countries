@@ -1,0 +1,23 @@
+.link{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    text-decoration: none;
+    color: black;
+
+}
+
+.card:hover{
+    opacity: 0.3;
+    transition: ease-out 1s;
+}
+
+.list{
+    flex: 1;
+}
+
+.card{
+    width: 201px;
+}

@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #ffffff;
+    width: 100%;
+    box-shadow: 0 0 5px 0;
+}
+
+.fa-globe-americas{
+    color: black;
+    margin-right: 04px;
+}
+
+.navbar h4{
+    font-weight: 400;
+    }

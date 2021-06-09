@@ -1,0 +1,21 @@
+.Searching{
+    display: flex;
+    justify-content: center;
+}
+
+.searchBox{
+    flex: 1;
+}
+
+.searchBox input{
+    width: 30%;
+}
+
+.filterBox{
+    text-align: center;
+    width: 420px;
+}
+
+.filterBox select{
+    width: 40%  ;
+}
